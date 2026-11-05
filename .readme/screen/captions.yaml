@@ -1,0 +1,9 @@
+01-overview.png:
+  cs: Inventární pole se mění v praktický provozní přehled místo statických metadat hosta.
+  en: Inventory fields become a practical operational overview instead of static host metadata.
+02-fields.png:
+  cs: Vyberte důležité inventární údaje a zobrazte je jednotně napříč monitorovanými hosty.
+  en: Select the inventory information that matters and present it consistently across monitored hosts.
+03-host-edit.png:
+  cs: 'Úprava jednoho hosta: každé vlastní pole i s popisem v nápovědě, přímo ze seznamu hostů.'
+  en: 'Edit one host: every custom field with its description on a hint, right from the host list.'
